@@ -1,0 +1,7 @@
+Power BI Desktop
+Microsoft Excel
+DAX
+Data Cleaning
+Data Visualization
+Business Intelligence
+Dashboard Development
